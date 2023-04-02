@@ -1,5 +1,5 @@
 echo "Running tests..."
-echo
+
 
 output=$(./a.out)
 expected_output="Hello, World!"
@@ -18,7 +18,6 @@ else
   exit 1
 fi
 
-echo
 echo "All tests passed."
 
 exit 0
