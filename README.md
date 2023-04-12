@@ -4,8 +4,8 @@
 - You are required to edit the file named "**hello.c**"
 - Edit the file to print out the statement:
 	- "**Hello, World!**"
-- Remember any slight difference in this statement will cause your code/assessment to fail. It should be exactly the same
+- Remember any slight difference in this statement will cause your code/assessment to fail. It should be exactly the same.
 - When you are finished with the assignment, push it back to the repository for grading.
-- Check github actions for your grading result
+- Check github actions for your grading result.
 
 
